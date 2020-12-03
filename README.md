@@ -12,7 +12,7 @@ Other documents to get started:
 
 To contribute to ESS-DIVE's soil respiration data and metadata reporting format:
 
-* Copy and paste one of the **issue templates** below and [submit a new issue](https://github.com/ess-dive-community/essdive-soil-respiration/issues/new).
+* [Submit a new issue](https://github.com/ess-dive-community/essdive-soil-respiration/issues/new).
 * Have a question? Contact us at ess-dive-support@lbl.gov. 
 
 ## Copyright information
