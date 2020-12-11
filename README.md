@@ -16,6 +16,8 @@ To contribute to ESS-DIVE's soil respiration data and metadata reporting format:
 * Have a question? Contact us at ess-dive-support@lbl.gov. 
 
 ## Copyright information
+This soil respiration data and metadata reporting format is licensed under [CC BY 4.0](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/LICENSE.md).
+
 
 ## Funding and acknowledgements
 
