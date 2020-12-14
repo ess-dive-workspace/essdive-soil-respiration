@@ -174,7 +174,7 @@ Here you will find proposed guidelines for formatting soil respiration data
 |**requirement_level**|optional|
 |**description**|Volumetric soil moisture at x cm depth (for additional "SMx" fields, follow the same format, e.g. SM5, SM15)|
 |**format**|numeric|
-|**units**|m3/m3|
+|**units**|m3 m-3|
 
 ### Soil_O2
 |**field name**|Soil_O2|
