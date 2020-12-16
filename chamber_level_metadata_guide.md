@@ -17,7 +17,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 ---
 
 ### Chamber ID
-|**field name**|CHAMBER_ID|
+|**field name**|Chamber_ID|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|required|
 |**description**|Unique chamber label; must appear in flux data table as well|
@@ -25,7 +25,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**||
 
 ### Measurement variable
-|**field name**|MSMT_VAR|
+|**field name**|Msmt_Var|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|required|
 |**description**|Flux should be interpreted as: "Rs" (soil respiration, whether CO2 or CH4), "Rh" (heterotrophic respiration only), "Reco" (ecosystem respiration), or "NEE" (net ecosystem exchange)|
@@ -33,7 +33,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**||
 
 ### Treatment
-|**field name**|TREATMENT|
+|**field name**|Treatment|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|required|
 |**description**|Soil or ecosystem treatment applied at measurement location; default is "None"|
@@ -41,7 +41,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**||
 
 ### Longitude
-|**field name**|LONGITUDE|
+|**field name**|Longitude|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|optional|
 |**description**|Decimal longitude of measurement location, positive = east|
@@ -49,7 +49,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**|degrees|
 
 ### Latitude
-|**field name**|LATITUDE|
+|**field name**|Latitude|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|optional|
 |**description**|Decimal latitude of measurement location, positive = north|
@@ -57,7 +57,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**|degrees|
 
 ### Area
-|**field name**|AREA|
+|**field name**|Area|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|optional|
 |**description**|Soil surface measurement area|
@@ -65,7 +65,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**|cm2|
 
 ### Volume
-|**field name**|VOLUME|
+|**field name**|Volume|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|optional|
 |**description**|Volume of measurement chamber|
@@ -73,7 +73,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**|cm3|
 
 ### Collar depth
-|**field name**|COLLAR_DEPTH|
+|**field name**|Collar_Depth|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|optional|
 |**description**|Depth of collar insertion|
@@ -81,7 +81,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**|cm|
 
 ### Opaque
-|**field name**|OPAQUE|
+|**field name**|Opaque|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|required|
 |**description**|Opaque chamber?|
@@ -89,7 +89,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**||
 
 ### Plants removed
-|**field name**|PLANTS_REMOVED|
+|**field name**|Plants_Removed|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|required|
 |**description**|Plants removed from inside collar?|
@@ -97,7 +97,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**||
 
 ### Fan
-|**field name**|FAN|
+|**field name**|Fan|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|optional|
 |**description**|Mixing fan in chamber?|
@@ -105,7 +105,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**||
 
 ### Species
-|**field name**|SPECIES|
+|**field name**|Species|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|optional|
 |**description**|Comma-separated list of dominant species at measurement location|
@@ -113,7 +113,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**||
 
 ### Sensor depths
-|**field name**|SENSOR_DEPTHS|
+|**field name**|Sensor_Depths|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|optional|
 |**description**|Comma-separated depths of solid-state sensors, gradient method only|
@@ -121,7 +121,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**|cm|
 
 ### Instrument
-|**field name**|INSTRUMENT|
+|**field name**|Instrument|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|required|
 |**description**|Measurement instrument (i.e. model)|
@@ -129,7 +129,7 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**units**||
 
 ### Notes
-|**field name**|NOTES|
+|**field name**|Notes|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|optional|
 |**description**|Additional information about this measurement location|
