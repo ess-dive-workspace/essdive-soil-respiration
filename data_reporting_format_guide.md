@@ -6,19 +6,19 @@ Here you will find proposed guidelines for formatting soil respiration data
 
 ## Soil Respiration Data Reporting Format - Link to More Details
 
-[Chamber_ID](#chamber_id) | [Timestamp_Begin](#timestamp_begin) | [Timestamp_End](#timestamp_end) 
+[Chamber ID](#chamber_id) | [Timestamp Begin](#timestamp_begin) | [Timestamp End](#timestamp_end) 
 
-[Dry_CO2](#dry_co2) | [Flux_CO2](#flux_co2) |[Flux_SE_CO2](#flux_se_co2)
+[Dry CO2](#dry_co2) | [CO2 Flux](#flux_co2) | [CO2 Flux Standard Error](#flux_se_co2)
 
-[CrvFit_CO2](#crvfit_co2) | [R2_CO2](#r2_co2) | [Error](#error)
+[CO2 Curve Fit](#crvfit_co2) | [CO2 R2](#r2_co2) | [Error](#error)
 
-[CO2_Amb](#co2_amb) | [Tair_Amb](#tair_amb) | [Tair](#tair)
+[Ambient CO2](#co2_amb) | [Ambient Tair](#tair_amb) | [Tair](#tair)
 
-[PAR](#par) | [RH](#rh) | [PAR_Amb](#par_amb)
+[PAR](#par) | [RH](#rh) | [Ambient PAR](#par_amb)
 
-[VPD_Amb](#vpd_amb) | [Precip_Amb](#precip_amb) | [Tx](#tx)
+[Ambient VPD](#vpd_amb) | [Ambient Precip](#precip_amb) | [Tx](#tx)
 
-[SMx](#smx) | [Soil_O2](#soil_o2) | [WTD](#wtd)
+[SMx](#smx) | [Soil O2](#soil_o2) | [WTD](#wtd)
 
 [Record](#record) | [Notes](#notes) 
 
