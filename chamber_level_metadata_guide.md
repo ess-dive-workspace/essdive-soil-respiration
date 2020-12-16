@@ -4,15 +4,15 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 
 ---
 ## Chamber Level Metadata Content - Link to More Details
-[Chamber ID](#chamber-id) | [Measurement variable](#measurement-variable) |[Treatment](#treatment)
+[Chamber ID](#chamber-id) | [Measurement Variable](#measurement-variable) |[Treatment](#treatment)
 
 [Longitude](#longitude) | [Latitude](#latitude) | [Area](#area)
 
-[Volume](#volume) | [Collar depth](#collar-depth) | [Opaque](#opaque)
+[Volume](#volume) | [Collar Depth](#collar-depth) | [Opaque](#opaque)
 
-[Plants removed](#plants-removed) | [Fan](#fan) | [Species](#species)
+[Plants Removed](#plants-removed) | [Fan](#fan) | [Species](#species)
 
-[Sensor depths](#sensor-depths) | [Instrument](#instrument) | [Notes](#notes)
+[Sensor Depths](#sensor-depths) | [Instrument](#instrument) | [Notes](#notes)
 
 ---
 
