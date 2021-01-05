@@ -1,4 +1,4 @@
-This documentation contains guidance for the content and format of ESS-DIVE soil respiration data and metadata reporting. This reporting format has been developed to meet the needs of the community for a unified reporting format. This initial effort covers the most common variables and provides templates for metadata reporting.
+This documentation contains guidance for the content and format of ESS-DIVE soil respiration data and metadata reporting format. This reporting format has been developed to meet the needs of the community for a unified reporting format. This initial effort covers the most common variables and provides templates for metadata reporting.
 
 ---
 
