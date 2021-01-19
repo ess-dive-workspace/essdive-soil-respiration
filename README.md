@@ -9,20 +9,22 @@ This documentation contains guidance for the content and format of ESS-DIVE soil
 Ready to get started? [Click here for detailed instructions](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/instructions.md)
 
 Other useful documents:
-- [Data format guide](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/data_reporting_format_guide.md)
-- [Chamber-level data format guide](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/chamber_level_metadata_guide.md)
-- [Template](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/templates/data_reportingformat_template.csv)
+* [Data format guide](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/data_reporting_format_guide.md)
+* [Chamber-level data format guide](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/chamber_level_metadata_guide.md)
+* [Templates](https://github.com/ess-dive-community/essdive-soil-respiration/tree/main/templates)
 
 ## How to contribute 
 
-To contribute to ESS-DIVE's soil respiration data and metadata reporting format:
+This reporting format is constantly evolving to meet the needs of the community. To contribute or provide feedback to ESS-DIVE's soil respiration data and metadata reporting format:
 
-* [Submit a new issue](https://github.com/ess-dive-community/essdive-soil-respiration/issues/new).
-* Have a question? Contact us at ess-dive-support@lbl.gov. 
+1. Go to the [new issue page](https://github.com/ess-dive-community/essdive-soil-respiration/issues/new/choose)
+2. Choose from one of the provided templates, modeled from the Darwin Core, or create your own
+3. Will we respond with a comment on the issue
+
+Have a question? Contact us at ess-dive-support@lbl.gov. 
 
 ## Copyright information
 This soil respiration data and metadata reporting format is licensed under [CC BY 4.0](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/LICENSE.md).
-
 
 ## Funding and acknowledgements
 
@@ -32,5 +34,6 @@ The format was developed with input and feedback from subject experts, including
 
 ## Related Citations
 
-- Bond-Lamberty B., Pennington S.C., Crystal-Ornelas R. (2020): ESS-DIVE reporting format for soil respiration data and metadata. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem.
-- (ms if accepted)
+* Bond-Lamberty B., Pennington S.C., Crystal-Ornelas R. (2020): ESS-DIVE reporting format for soil respiration data and metadata. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem.
+* Darwin Core maintenance group, Biodiversity Information Standards (TDWG) (2014). Darwin Core. Zenodo. https://doi.org/10.5281/zenodo.592792   
+* (ms if accepted)
