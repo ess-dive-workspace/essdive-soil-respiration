@@ -1,12 +1,17 @@
+# ESS-DIVE Reporting Format for Soil Respiration
+
 This documentation contains guidance for the content and format of ESS-DIVE soil respiration data and metadata reporting format. This reporting format has been developed to meet the needs of the community for a unified reporting format. This initial effort covers the most common variables and provides templates for metadata reporting.
 
 ---
 
 ## Getting started
 
-Instructions for how to use this reporting format:
+Ready to get started? [Click here for detailed instructions](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/instructions.md)
 
-Other documents to get started:
+Other useful documents:
+- [Data format guide](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/data_reporting_format_guide.md)
+- [Chamber-level data format guide](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/chamber_level_metadata_guide.md)
+- [Template](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/templates/data_reportingformat_template.csv)
 
 ## How to contribute 
 
@@ -25,6 +30,7 @@ Funding for the development of ESS-DIVE's soil respiration data and metadata rep
 
 The format was developed with input and feedback from subject experts, including data collectors, data scientists, data users, and instrument manufacturers. Thank you all!
 
-## Recommended citation
+## Related Citations
 
-Bond-Lamberty B., Pennington S.C., Crystal-Ornelas R. (2020): ESS-DIVE reporting format for soil respiration data and metadata. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem.
+- Bond-Lamberty B., Pennington S.C., Crystal-Ornelas R. (2020): ESS-DIVE reporting format for soil respiration data and metadata. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem.
+- (ms if accepted)
