@@ -25,8 +25,9 @@ A data package containing soil respiration data must include, at a minimum:
 | Instrument                                                                                     |
 
 ## Additional information
-Inclusion of additional related datasets with soil respiration data is encouraged. This can include measurements made inline, such as soil moisture or temperature, or subsequent analysis of chemical composition or physical properties. Related data should be linked by using common sample identifiers. 
 
-Defined variables should be used where available. For variables not yet covered by this reporting format documentation, data contributors should use machine readable variable names that are in common use. 
+Defined variables should be used where available. For **variables not yet covered** by this reporting format documentation, data contributors should use machine readable variable names that are in common use and follow ESS-DIVE data dictionary format guidelines as described [here](https://github.com/ess-dive-community/essdive-file-level-metadata/blob/master/CSV_dd/CSV_dd_instructions.md). 
+
+Inclusion of additional related datasets with soil respiration data is encouraged. This can include measurements made inline, such as soil moisture or temperature, or subsequent analysis of chemical composition or physical properties. Related data should be linked by using common sample identifiers. 
 
 We will continue to work with the ESS community to improve data and metadata reporting formats for soil respiration data. Please [contribute](contribute.md) by submitting issues, using our issue templates, or contact ess-dive-support@lbl.gov to provide any feedback on the process of formatting data or specific metadata fields.
