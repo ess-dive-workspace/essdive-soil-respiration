@@ -6,12 +6,7 @@ This documentation contains guidance for the content and format of ESS-DIVE soil
 
 ## Getting started
 
-Ready to get started? [Click here for detailed instructions](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/instructions.md)
-
-Other useful documents:
-* [Data format guide](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/data_reporting_format_guide.md)
-* [Chamber-level data format guide](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/chamber_level_metadata_guide.md)
-* [Templates](https://github.com/ess-dive-community/essdive-soil-respiration/tree/main/templates)
+### Ready to use the reporting format? [Click here for detailed instructions](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/instructions.md)
 
 ## How to contribute 
 
