@@ -30,5 +30,6 @@ The format was developed with input and feedback from subject experts, including
 ## Related Citations
 
 * Bond-Lamberty B., Pennington S.C., Crystal-Ornelas R. (2020): ESS-DIVE reporting format for soil respiration data and metadata. Environmental Systems Science Data Infrastructure for a Virtual Ecosystem.
-* Darwin Core maintenance group, Biodiversity Information Standards (TDWG) (2014). Darwin Core. Zenodo. https://doi.org/10.5281/zenodo.592792   
-* (ms if accepted)
+* Darwin Core maintenance group, Biodiversity Information Standards (TDWG) (2014). Darwin Core. Zenodo. [10.5281/zenodo.592792](https://doi.org/10.5281/zenodo.592792)
+* Bond-Lamberty, B., Christianson, D. S., Crystal-Ornelas, R., Mathes, K., and Pennington, S. C.: A reporting format for field measurements of soil respiration, Ecol. Inform., 62, 101280, 2021. [10.1016/j.ecoinf.2021.101280](http://dx.doi.org/10.1016/j.ecoinf.2021.101280)
+
