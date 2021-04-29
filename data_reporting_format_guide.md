@@ -8,7 +8,7 @@ Here you will find proposed guidelines for formatting soil respiration data
 
 [Chamber ID](#chamber_id) | [Timestamp Begin](#timestamp_begin) | [Timestamp End](#timestamp_end) 
 
-[Dry CO2](#dry_co2) | [CO2 Flux](#flux_co2) | [CO2 Flux Standard Error](#flux_se_co2)
+[CO2 Flux](#flux_co2) | [Dry CO2](#dry_co2) | [CO2 Flux Standard Error](#flux_se_co2)
 
 [CO2 Curve Fit](#crvfit_co2) | [CO2 R2](#r2_co2) | [Error](#error)
 
@@ -48,14 +48,6 @@ Here you will find proposed guidelines for formatting soil respiration data
 |**format**|integer|
 |**units**|YYYYMMDDHHMM|
 
-### Dry_CO2
-|**field name**|Dry_CO2|
-|:----------------------------------------------------|:----------------------------------------------------|
-|**requirement_level**|optional|
-|**description**|Mean chamber CO2 concentration during measurement period|
-|**format**|numeric|
-|**units**|ppmv|
-
 ### Flux_CO2
 |**field name**|Flux_CO2|
 |:----------------------------------------------------|:----------------------------------------------------|
@@ -63,6 +55,14 @@ Here you will find proposed guidelines for formatting soil respiration data
 |**description**|CO2 flux (positive = to atmosphere)|
 |**format**|numeric|
 |**units**|&#181;mol CO2 m-2 s-1|
+
+### Dry_CO2
+|**field name**|Dry_CO2|
+|:----------------------------------------------------|:----------------------------------------------------|
+|**requirement_level**|optional|
+|**description**|Mean chamber CO2 concentration during measurement period|
+|**format**|numeric|
+|**units**|ppmv|
 
 ### Flux_SE_CO2
 |**field name**|Flux_SE_CO2|

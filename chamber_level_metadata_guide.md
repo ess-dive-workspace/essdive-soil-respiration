@@ -6,13 +6,13 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 ## Chamber Level Metadata Content - Link to More Details
 [Chamber ID](#chamber-id) | [Measurement Variable](#measurement-variable) |[Treatment](#treatment)
 
+[Opaque](#opaque) | [Plants Removed](#plants-removed) | [Instrument](#instrument)
+
 [Longitude](#longitude) | [Latitude](#latitude) | [Area](#area)
 
-[Volume](#volume) | [Collar Depth](#collar-depth) | [Opaque](#opaque)
+[Volume](#volume) | [Collar Depth](#collar-depth) | [Fan](#fan)
 
-[Plants Removed](#plants-removed) | [Fan](#fan) | [Species](#species)
-
-[Sensor Depths](#sensor-depths) | [Instrument](#instrument) | [Notes](#notes)
+[Species](#species) | [Sensor Depths](#sensor-depths) | [Notes](#notes)
 
 ---
 
@@ -37,6 +37,30 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement level**|required|
 |**description**|Soil or ecosystem treatment applied at measurement location; default is "None"|
+|**format**|character|
+|**units**||
+
+### Opaque
+|**field name**|Opaque|
+|:----------------------------------------------------|:----------------------------------------------------|
+|**requirement level**|required|
+|**description**|Opaque chamber?|
+|**format**|logical|
+|**units**||
+
+### Plants removed
+|**field name**|Plants_Removed|
+|:----------------------------------------------------|:----------------------------------------------------|
+|**requirement level**|required|
+|**description**|Plants removed from inside collar?|
+|**format**|logical|
+|**units**||
+
+### Instrument
+|**field name**|Instrument|
+|:----------------------------------------------------|:----------------------------------------------------|
+|**requirement_level**|required|
+|**description**|Measurement instrument (i.e. model)|
 |**format**|character|
 |**units**||
 
@@ -80,22 +104,6 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**format**|numeric|
 |**units**|cm|
 
-### Opaque
-|**field name**|Opaque|
-|:----------------------------------------------------|:----------------------------------------------------|
-|**requirement level**|required|
-|**description**|Opaque chamber?|
-|**format**|logical|
-|**units**||
-
-### Plants removed
-|**field name**|Plants_Removed|
-|:----------------------------------------------------|:----------------------------------------------------|
-|**requirement level**|required|
-|**description**|Plants removed from inside collar?|
-|**format**|logical|
-|**units**||
-
 ### Fan
 |**field name**|Fan|
 |:----------------------------------------------------|:----------------------------------------------------|
@@ -119,14 +127,6 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**description**|Comma-separated depths of solid-state sensors, gradient method only|
 |**format**|character|
 |**units**|cm|
-
-### Instrument
-|**field name**|Instrument|
-|:----------------------------------------------------|:----------------------------------------------------|
-|**requirement_level**|required|
-|**description**|Measurement instrument (i.e. model)|
-|**format**|character|
-|**units**||
 
 ### Notes
 |**field name**|Notes|
