@@ -1,24 +1,5 @@
-Columns ,Chamber_ID,Msmt_Var,Treatment,Opaque,Plants_Removed,Instrument,Longtitude,Latitude,Area,Volume,Collar_Depth,Fan,Species,Sensor_Depths,Notes
+Columns ,Chamber_ID,Msmt_Var,Treatment,Opaque,Plants_Removed,Instrument,Longitude,Latitude,Area,Volume,Collar_Depth,Fan,Species,Sensor_Depths,Notes
 Contains,Unique chamber label; must appear in data table as well,"Flux should be interpreted as: “Rs” (soil respiration, whether CO2 or CH4), “Rh” (heterotrophic respiration only), “Reco” (ecosystem respiration), or “NEE” (net ecosystem exchange)",Soil or ecosystem treatment applied at measurement location; default is “None”,Opaque chamber?,Plants removed from inside collar?,Measurement instrument (i.e. model),"Decimal longitude of measurement location, positive = east","Decimal latitude of measurement location, positive = north",Soil surface measurement area,Volume of measurement chamber,Depth of collar insertion,Mixing fan in chamber?,Comma-separated list of dominant species at measurement location,"Comma-separated depths of solid-state sensors, gradient method only",Additional information about this chamber
 Units,,,,,,,degrees,degrees,cm2,cm3,cm,,,cm,
 Example,Chamber_1,Rs,Irrigated,FALSE,TRUE,Li-8100a,-76.554137,38.897971,317.8,4073.5,7.5,TRUE,"Liriodendron tulipifera, Fagus grandifolia",3,Stick stuck in chamber.
-Example,Control,Rh,None,Yes,Yes,Li-7810,4.208918,47.374453,253.0,3600.0,3.0,Yes,"Dactylis glomerata, Agrostis capillaris, Lolium perenne",5,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
-,,,,,,,,,,,,,,,
+Example,Control,Rh,None,Yes,Yes,Li-7810,4.208918,47.374453,253,3600,3,Yes,"Dactylis glomerata, Agrostis capillaris, Lolium perenne",5,
