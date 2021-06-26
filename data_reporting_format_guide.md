@@ -52,7 +52,7 @@ Here you will find proposed guidelines for formatting soil respiration data
 |**field name**|Flux_CO2|
 |:----------------------------------------------------|:----------------------------------------------------|
 |**requirement_level**|required|
-|**description**|CO2 flux (positive = to atmosphere)|
+|**description**|CO2 flux (positive = to atmosphere); negative values are also acceptable|
 |**format**|numeric|
 |**units**|&#181;mol CO2 m-2 s-1|
 
