@@ -10,9 +10,11 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 
 [Longitude](#longitude) | [Latitude](#latitude) | [Area](#area)
 
-[Volume](#volume) | [Collar Depth](#collar-depth) | [Fan](#fan)
+[Volume](#volume) | [Observation Count](#observation-count) | [Collar Depth](#collar-depth) 
 
-[Species](#species) | [Sensor Depths](#sensor-depths) | [Notes](#notes)
+[Fan](#fan) | [Species](#species) 
+
+[Sensor Depths](#sensor-depths) | [Notes](#notes)
 
 ---
 
@@ -95,6 +97,14 @@ Here you will find proposed guidelines for standardizing chamber level soil resp
 |**description**|Volume of measurement chamber|
 |**format**|numeric|
 |**units**|cm3|
+
+### Observation Count
+|**field name**|Obs_Count|
+|:----------------------------------------------------|:----------------------------------------------------|
+|**requirement level**|optional|
+|**description**|Observation count representing how many measurement cycles were completed and used to calculate the flux|
+|**format**|numeric|
+|**units**||
 
 ### Collar depth
 |**field name**|Collar_Depth|
