@@ -13,7 +13,7 @@ A data package containing soil respiration data must include, at a minimum:
 | Chamber_ID                                                                                     |
 | Timestamp_Begin                                                                                |
 | Timestamp_End                                                                                  |
-| Dry_CO2                                                                                        |
+| Flux_CO2                                                                                        |
 
 | Required Metadata Variables                                                                    |
 |:-----------------------------------------------------------------------------------------------|
