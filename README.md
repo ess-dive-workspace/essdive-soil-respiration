@@ -1,25 +1,28 @@
-# ESS-DIVE Reporting Format for Soil Respiration
+# ESS-DIVE Reporting Format for Soil Respiration v1.0.1
 
-This documentation contains guidance for the content and format of ESS-DIVE soil respiration data and metadata reporting format. This reporting format has been developed to meet the needs of the community for a unified reporting format. This initial effort covers the most common variables and provides templates for metadata reporting.
+This documentation contains guidance for the content and format of ESS-DIVE soil respiration data and metadata reporting format. This reporting format has been developed to meet the needs of the researchers for a unified reporting format. This initial effort covers the most common variables and provides templates for metadata reporting.
 
 ---
 
 ## Getting started
 
-### Ready to use the reporting format? [Click here for detailed instructions](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/instructions.md)
+### Ready to use the reporting format? [Click here for detailed instructions](instructions.md)
+
+## Updates in v1.0.1
+In March 2025, a patch version of the Soil Respiration reporting format was made to improve the overall experience with the associated reporting format documentation. Additionally, the standard reporting format keyword and standard term were added to the instructions.md file.
 
 ## How to contribute 
 
-This reporting format is constantly evolving to meet the needs of the community. To contribute or provide feedback to ESS-DIVE's soil respiration data and metadata reporting format:
+This reporting format is constantly evolving to meet the needs of DOE ESS researchers. To contribute or provide feedback to ESS-DIVE's soil respiration data and metadata reporting format:
 
-1. Go to the [new issue page](https://github.com/ess-dive-community/essdive-soil-respiration/issues/new/choose)
+1. Go to the [new issue page](https://github.com/ess-dive-workspace/essdive-soil-respiration/issues/new/choose)
 2. Choose from one of the provided templates, modeled from the Darwin Core, or create your own
 3. Will we respond with a comment on the issue
 
 Have a question? Contact us at ess-dive-support@lbl.gov. 
 
 ## Copyright information
-This soil respiration data and metadata reporting format is licensed under [CC BY 4.0](https://github.com/ess-dive-community/essdive-soil-respiration/blob/main/LICENSE.md).
+This soil respiration data and metadata reporting format is licensed under [CC BY 4.0](LICENSE.md).
 
 ## Funding and acknowledgements
 
