@@ -2,9 +2,9 @@
 
 A data package containing soil respiration data must include, at a minimum: 
 
-1. Assemble the data table by downloading and filling in the [data template](templates/data_reportingformat_template.xlsx). These serve as a guide for how the table should be structured. See our [data format guide](/data_reporting_format_guide.md) for descriptions and instructions for each data field.
+1. Assemble the data table by downloading and filling in the data template in [XLSX](templates/data_reportingformat_template.xlsx) or [CSV](templates/data_reportingformat_template.csv) format. These serve as a guide for how the table should be structured. See our [data format guide](/data_reporting_format_guide.md) for descriptions and instructions for each data field.
 
-2. Assemble the metadata table by downloading and filling in the [chamber-level metadata template](templates/chammetadata_reportingformat_template.xlsx). See our [chamber-level metadata format guide](chamber_level_metadata_guide.md) for descriptions and instructions for each field.
+2. Assemble the metadata table by downloading and filling in the chamber-level metadata template in [XLSX](templates/chammetadata_reportingformat_template.xlsx) or [CSV](templates/chammetadata_reportingformat_template.csv) formats. See our [chamber-level metadata format guide](chamber_level_metadata_guide.md) for descriptions and instructions for each field.
 
 3. Ensure that all _required_ data types are included for each table (see required data tables below) and save each file as a `.csv`
 
