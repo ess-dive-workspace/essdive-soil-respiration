@@ -1,9 +1,13 @@
-## Format templates
+# Templates
 
 Feel free to download and populate either version of the template as they both contain the same information. The `.xlsx` version simply highlights the required variables in blue and orange (as shown in the photos below), making them a bit easier to identify. **Please save your template as a CSV.**
 
-#### Data Table Template
-![](https://github.com/ess-dive-workspace/essdive-soil-respiration/blob/main/templates/data_template.png)
+Templates for the Soil Respiration Reporting Format can be downloaded [here](https://github.com/ess-dive-workspace/essdive-soil-respiration/tree/main/templates).
 
-#### Chamber-level Metadata Template
-![](https://github.com/ess-dive-workspace/essdive-soil-respiration/blob/main/templates/chammetadata_template.png)
+### Data Table Template
+
+<figure><img src="../.gitbook/assets/data_template.png" alt=""><figcaption></figcaption></figure>
+
+### **Chamber-level Metadata Template**
+
+<figure><img src="../.gitbook/assets/chammetadata_template.png" alt=""><figcaption></figcaption></figure>
